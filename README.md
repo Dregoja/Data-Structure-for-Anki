@@ -7,7 +7,7 @@
 ![](https://github.com/Dregoja/Data-Structure-for-Anki/blob/main/%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.png?raw=true "目录结构")
 
 <center>目录结构<center>
-  
+
 ---
 
 <img src="https://github.com/Dregoja/Data-Structure-for-Anki/blob/main/%E5%86%85%E5%AE%B9%E9%A2%84%E8%A7%88.png?raw=true"  />
@@ -48,4 +48,4 @@ Anki非常利于**复习记忆**，它可以按照艾宾浩斯遗忘曲线，给
 
 ## 四、说在最后
 
-版权归Dregoja所有，仅供学习使用，不得用作商业用途
+版权归Dregoja所有，仅供学习使用，不得用作商业用途。
